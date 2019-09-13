@@ -1,0 +1,25 @@
+{
+    "name": "mean-stack-registration-login-example",
+    "version": "1.0.0",
+    "description": "MEAN Stack User Registration and Login Example Application",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cornflourblue/mean-stack-registration-login-example.git"
+    },
+    "dependencies": {
+        "bcryptjs": "^2.4.3",
+        "body-parser": "^1.19.0",
+        "ejs": "^2.3.3",
+        "express": "^4.17.1",
+        "express-jwt": "^3.4.0",
+        "express-session": "^1.16.2",
+        "jsonwebtoken": "^5.7.0",
+        "lodash": "^4.17.15",
+        "mongodb": "^2.1.16",
+        "mongoskin": "^2.1.0",
+        "q": "^1.5.1",
+        "request": "^2.88.0",
+        "rootpath": "^0.1.2"
+    },
+    "license": "MIT"
+}
